@@ -7,7 +7,7 @@
 - [x] Configure project dependencies
 - [x] Add Maven Wrapper
 - [x] Configure application properties
-- [ ] Add Docker Compose for PostgreSQL
+- [x] Add Docker Compose for PostgreSQL
 
 ## Phase 2: Database
 
