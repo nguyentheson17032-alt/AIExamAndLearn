@@ -17,7 +17,7 @@
 - [x] Create questions and question_choices tables migration
 - [x] Create exams and exam_questions tables migration
 - [x] Create attempts and attempt_answers tables migration
-- [ ] Create elo_history table migration
+- [x] Create elo_history table migration
 
 ## Phase 3: Backend
 
