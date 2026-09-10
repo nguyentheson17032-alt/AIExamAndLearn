@@ -22,7 +22,7 @@
 ## Phase 3: Backend
 
 - [x] Create ApiResponse wrapper
-- [ ] Create PageResponse wrapper
+- [x] Create PageResponse wrapper
 - [ ] Create DomainException hierarchy
 - [ ] Create ProblemDetailExceptionHandler
 - [ ] Create User entity
