@@ -6,7 +6,7 @@
 - [x] Initialize Spring Boot backend
 - [x] Configure project dependencies
 - [x] Add Maven Wrapper
-- [ ] Configure application properties
+- [x] Configure application properties
 - [ ] Add Docker Compose for PostgreSQL
 
 ## Phase 2: Database
