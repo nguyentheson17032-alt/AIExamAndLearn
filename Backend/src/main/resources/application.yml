@@ -1,6 +1,9 @@
 spring:
   application:
     name: exam-warehouse
+  autoconfigure:
+    exclude:
+      - org.springframework.ai.model.openai.autoconfigure.OpenAiChatAutoConfiguration
   datasource:
     url: ${DATABASE_URL:jdbc:postgresql://localhost:5432/exam_warehouse}
     username: ${DATABASE_USERNAME:exam}
