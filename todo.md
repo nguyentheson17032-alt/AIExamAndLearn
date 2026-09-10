@@ -3,7 +3,7 @@
 ## Phase 1: Project Setup
 
 - [x] Create Backend folder
-- [ ] Initialize Spring Boot backend
+- [x] Initialize Spring Boot backend
 - [ ] Configure project dependencies
 - [ ] Add Maven Wrapper
 - [ ] Configure application properties
