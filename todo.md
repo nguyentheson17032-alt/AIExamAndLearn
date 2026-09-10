@@ -23,83 +23,83 @@
 
 - [x] Create ApiResponse wrapper
 - [x] Create PageResponse wrapper
-- [ ] Create DomainException hierarchy
-- [ ] Create ProblemDetailExceptionHandler
-- [ ] Create User entity
-- [ ] Create UserRepository
-- [ ] Create Question entity
-- [ ] Create QuestionChoice entity
-- [ ] Create QuestionRepository
-- [ ] Create Exam entity
-- [ ] Create ExamQuestion entity
-- [ ] Create ExamRepository
-- [ ] Create Attempt entity
-- [ ] Create AttemptAnswer entity
-- [ ] Create AttemptRepository
-- [ ] Create EloHistory entity
-- [ ] Create EloHistoryRepository
-- [ ] Create EloService
-- [ ] Create Rank mapping from Elo
-- [ ] Create ExamAiClient interface
-- [ ] Create StubExamAiClient
-- [ ] Create Spring AI ChatClient configuration
-- [ ] Create SpringAiExamAiClient
-- [ ] Create question classification prompts
-- [ ] Create grading prompts
-- [ ] Create similar exercise generation prompts
-- [ ] Create exam set generation prompts
-- [ ] Create UserService
-- [ ] Create QuestionService
-- [ ] Create ExamService
-- [ ] Create AttemptService
-- [ ] Create adaptive practice selection
+- [x] Create DomainException hierarchy
+- [x] Create ProblemDetailExceptionHandler
+- [x] Create User entity
+- [x] Create UserRepository
+- [x] Create Question entity
+- [x] Create QuestionChoice entity
+- [x] Create QuestionRepository
+- [x] Create Exam entity
+- [x] Create ExamQuestion entity
+- [x] Create ExamRepository
+- [x] Create Attempt entity
+- [x] Create AttemptAnswer entity
+- [x] Create AttemptRepository
+- [x] Create EloHistory entity
+- [x] Create EloHistoryRepository
+- [x] Create EloService
+- [x] Create Rank mapping from Elo
+- [x] Create ExamAiClient interface
+- [x] Create StubExamAiClient
+- [x] Create Spring AI ChatClient configuration
+- [x] Create SpringAiExamAiClient
+- [x] Create question classification prompts
+- [x] Create grading prompts
+- [x] Create similar exercise generation prompts
+- [x] Create exam set generation prompts
+- [x] Create UserService
+- [x] Create QuestionService
+- [x] Create ExamService
+- [x] Create AttemptService
+- [x] Create adaptive practice selection
 
 ## Phase 4: Authentication
 
-- [ ] Create JwtProperties
-- [ ] Create JwtService
-- [ ] Create JwtAuthenticationFilter
-- [ ] Create SecurityConfig
-- [ ] Create RefreshToken entity support
-- [ ] Create AuthService
-- [ ] Create AuthController
+- [x] Create JwtProperties
+- [x] Create JwtService
+- [x] Create JwtAuthenticationFilter
+- [x] Create SecurityConfig
+- [x] Create RefreshToken entity support
+- [x] Create AuthService
+- [x] Create AuthController
 
 ## Phase 5: API
 
-- [ ] Implement register API
-- [ ] Implement login API
-- [ ] Implement refresh token API
-- [ ] Implement current user profile API
-- [ ] Implement upload question API
-- [ ] Implement list questions API
-- [ ] Implement get question API
-- [ ] Implement classify question API
-- [ ] Implement generate questions API
-- [ ] Implement create exam API
-- [ ] Implement create exercise API
-- [ ] Implement list exams API
-- [ ] Implement get exam API
-- [ ] Implement generate exam set API
-- [ ] Implement generate similar exercises API
-- [ ] Implement start attempt API
-- [ ] Implement submit answers API
-- [ ] Implement grade attempt and update Elo API
-- [ ] Implement adaptive practice API
-- [ ] Implement Elo history API
+- [x] Implement register API
+- [x] Implement login API
+- [x] Implement refresh token API
+- [x] Implement current user profile API
+- [x] Implement upload question API
+- [x] Implement list questions API
+- [x] Implement get question API
+- [x] Implement classify question API
+- [x] Implement generate questions API
+- [x] Implement create exam API
+- [x] Implement create exercise API
+- [x] Implement list exams API
+- [x] Implement get exam API
+- [x] Implement generate exam set API
+- [x] Implement generate similar exercises API
+- [x] Implement start attempt API
+- [x] Implement submit answers API
+- [x] Implement grade attempt and update Elo API
+- [x] Implement adaptive practice API
+- [x] Implement Elo history API
 
 ## Phase 6: Testing
 
-- [ ] Test EloService rating updates
-- [ ] Test Rank mapping
-- [ ] Test AuthController
-- [ ] Test QuestionController
-- [ ] Test ExamController
-- [ ] Test AttemptController
-- [ ] Test QuestionService validation
-- [ ] Test AttemptService grading and Elo
-- [ ] Test adaptive practice selection
+- [x] Test EloService rating updates
+- [x] Test Rank mapping
+- [x] Test AuthController
+- [x] Test QuestionController
+- [x] Test ExamController
+- [x] Test AttemptController
+- [x] Test QuestionService validation
+- [x] Test AttemptService grading and Elo
+- [x] Test adaptive practice selection
 
 ## Phase 7: Documentation
 
-- [ ] Add README with API overview
-- [ ] Add environment variable documentation
+- [x] Add README with API overview
+- [x] Add environment variable documentation
