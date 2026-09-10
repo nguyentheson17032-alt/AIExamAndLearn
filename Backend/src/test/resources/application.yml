@@ -1,7 +1,13 @@
 spring:
-  autoconfigure:
-    exclude:
-      - org.springframework.ai.model.openai.autoconfigure.OpenAiChatAutoConfiguration
+  ai:
+    model:
+      chat: none
+      embedding: none
+      image: none
+      audio:
+        speech: none
+        transcription: none
+      moderation: none
   flyway:
     enabled: false
   jpa:

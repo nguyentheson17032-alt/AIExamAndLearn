@@ -1,9 +1,6 @@
 spring:
   application:
     name: exam-warehouse
-  autoconfigure:
-    exclude:
-      - org.springframework.ai.model.openai.autoconfigure.OpenAiChatAutoConfiguration
   datasource:
     url: ${DATABASE_URL:jdbc:postgresql://localhost:5432/exam_warehouse}
     username: ${DATABASE_USERNAME:exam}
@@ -33,6 +30,14 @@ spring:
     problemdetails:
       enabled: true
   ai:
+    model:
+      chat: none
+      embedding: none
+      image: none
+      audio:
+        speech: none
+        transcription: none
+      moderation: none
     openai:
       api-key: ${OPENAI_API_KEY:}
       chat:
