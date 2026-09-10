@@ -21,7 +21,7 @@
 
 ## Phase 3: Backend
 
-- [ ] Create ApiResponse wrapper
+- [x] Create ApiResponse wrapper
 - [ ] Create PageResponse wrapper
 - [ ] Create DomainException hierarchy
 - [ ] Create ProblemDetailExceptionHandler
