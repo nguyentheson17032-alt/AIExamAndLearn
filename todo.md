@@ -11,8 +11,8 @@
 
 ## Phase 2: Database
 
-- [ ] Configure Flyway
-- [ ] Create users table migration
+- [x] Configure Flyway
+- [x] Create users table migration
 - [ ] Create refresh_tokens table migration
 - [ ] Create questions and question_choices tables migration
 - [ ] Create exams and exam_questions tables migration
