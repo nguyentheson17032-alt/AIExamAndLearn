@@ -4,7 +4,7 @@
 
 - [x] Create Backend folder
 - [x] Initialize Spring Boot backend
-- [ ] Configure project dependencies
+- [x] Configure project dependencies
 - [ ] Add Maven Wrapper
 - [ ] Configure application properties
 - [ ] Add Docker Compose for PostgreSQL
